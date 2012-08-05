@@ -2,6 +2,7 @@ vhdl_counter
 ============
 
 simple vhdl counter.
+project will consist of a ghdl simulation.
 
 read access:
 git clone https://github.com/dasdgw/vhdl_counter.git
