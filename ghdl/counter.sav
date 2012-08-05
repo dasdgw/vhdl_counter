@@ -1,0 +1,25 @@
+[*]
+[*] GTKWave Analyzer v3.3.37 (w)1999-2012 BSI
+[*] Sun Aug  5 16:36:26 2012
+[*]
+[dumpfile] "/home/dasdgw/git/vhdl_counter/ghdl/counter.ghw"
+[dumpfile_mtime] "Sun Aug  5 16:35:43 2012"
+[dumpfile_size] 2716
+[savefile] "/home/dasdgw/git/vhdl_counter/ghdl/counter.sav"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-27.080454 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.counter_tb.
+[sst_width] 216
+[signals_width] 94
+[sst_expanded] 1
+[sst_vpaned_height] 153
+@28
+top.counter_tb.clk
+top.counter_tb.rst
+@22
+#{top.counter_tb.cnt[7:0]} top.counter_tb.cnt[7] top.counter_tb.cnt[6] top.counter_tb.cnt[5] top.counter_tb.cnt[4] top.counter_tb.cnt[3] top.counter_tb.cnt[2] top.counter_tb.cnt[1] top.counter_tb.cnt[0]
+[pattern_trace] 1
+[pattern_trace] 0
